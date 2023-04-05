@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="Telecanal" tvg-logo="https://cdn-w.tvdaldia.cl/canales/telecanal.png" group-title="NACIONALES CHILE" tvg-shift="0",Telecanal
+http://45.225.95.170:8000/play/a0h8/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="lared.cl" tvg-name="La Red" tvg-logo="https://cdn-w.tvdaldia.cl/canales/lared.png" group-title="NACIONALES CHILE" tvg-shift="0",La Red
+http://45.232.210.3:8000/play/laredhd
+#EXTINF:-1 tvg-chno="5" tvg-id="tvmas.cl" tvg-name="TV+" tvg-logo="https://cdn-w.tvdaldia.cl/canales/tvmas.png" group-title="NACIONALES CHILE" tvg-shift="0",TV+
+http://45.232.210.3:8000/play/a058
+#EXTINF:-1 tvg-chno="7" tvg-id="149dtv.cl" tvg-name="TVN" tvg-logo="https://cdn-w.tvdaldia.cl/canales/tvn.png" group-title="NACIONALES CHILE" tvg-shift="0",TVN
+http://45.232.210.3:8000/play/a06r
+#EXTINF:-1 tvg-chno="9" tvg-id="mega.cl" tvg-name="Mega" tvg-logo="https://cdn-w.tvdaldia.cl/canales/mega.png" group-title="NACIONALES CHILE" tvg-shift="0",Mega
+http://45.232.210.3:8000/play/a08g
+#EXTINF:-1 tvg-chno="11" tvg-id="chv.cl" tvg-name="Chilevisión" tvg-logo="https://cdn-w.tvdaldia.cl/canales/chilevision.png" group-title="NACIONALES CHILE" tvg-shift="0",Chilevisión
+http://45.232.210.3:8000/play/a08n
+#EXTINF:-1 tvg-chno="13" tvg-id="152dtv.cl" tvg-name="Canal 13" tvg-logo="https://cdn-w.tvdaldia.cl/canales/canal13.png" group-title="NACIONALES CHILE" tvg-shift="0",Canal 13
+http://45.232.210.3:8000/play/a07a
+#EXTINF:-1 tvg-chno="15" tvg-id="707dtv.cl" tvg-name="CNN Chile" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104408_dark_360w_270h.png" group-title="NACIONALES CHILE" tvg-shift="0",CNN Chile
+http://45.232.210.3:8000/play/cnnchilehd
+#EXTINF:-1 tvg-chno="14" tvg-id="24horas.cl" tvg-name="Canal 24 Horas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62889_dark_360w_270h.png" group-title="NACIONALES CHILE" tvg-shift="0",Canal 24 Horas
+https://marine2.miplay.cl/24horas/tracks-v1a1/playlist.m3u8
