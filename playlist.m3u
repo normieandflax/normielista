@@ -665,12 +665,16 @@ http://45.186.252.17:8000/play/a02i
 https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="El Nueve - Argentina" tvg-logo="" group-title="MUNDOS",El Nueve - Argentina
 http://45.186.252.17:8000/play/a04o
-#EXTINF:-1 tvg-id="TvPublica.ar" tvg-name="TV Pública - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="MUNDOS",TV Pública - Argentina
+#EXTINF:-1 tvg-id="121dtv.ar" tvg-name="TV Pública - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="MUNDOS",TV Pública - Argentina
 http://181.119.66.30:8000/play/47/index.m3u8
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-name="TV Pública - Argentina [MPD]" group-title="MUNDOS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png", TV Pública - Argentina [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CzeyY6Csp7CPEgFLK3uSSA","kid":"X3ieu7ZJVXi0Ime2UFdPYg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="121dtv.ar" tvg-name="TV Pública - Argentina [MPD - Test]" group-title="MUNDOS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png", TV Pública - Argentina [MPD - TEST]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b+rOw3GbrbxRlv+wxXG4/Q","kid":"bJq3mEeDVJS87othh2gAQA"},{"kty":"oct","k":"QSz3xb7JAGQEVgCoVReMpw","kid":"qoYKw4gkU7urRr7StIp6Bw"},{"kty":"oct","k":"TzDcV0FrEp5VEUgaJX2YsQ","kid":"DB/AG7RTVgSqHYnojHH0cw"}],"type":"temporary"}
+https://tvup-ccpv2-live.secure2.footprint.net/tvp/tvp.mpd
 #EXTINF:-1 tvg-id="ElTreceInternacional.co" tvg-name="El Trece Internacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" group-title="MUNDOS",El Trece Internacional
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9e4pPL3L-x2Yif0eGeFotvcLrmzAJr3JOgoyGr9VrLCY/ts
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="MUNDOS",Las Estrellas - México
