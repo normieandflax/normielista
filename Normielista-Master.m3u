@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml"
 tvg-shift=0 catchup="shift" catchup-days=6 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecanal" tvg-logo="" group-title="NACIONALES",Telecanal
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecanal" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_telecanal.png" group-title="NACIONALES",Telecanal
 http://45.225.95.170:8000/play/a0h8/index.m3u8
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="La Red" tvg-logo="https://cdn-w.tvdaldia.cl/canales/lared.png" group-title="NACIONALES",La Red
 http://45.232.210.1:47000/play/laredhd
@@ -20,9 +20,9 @@ http://45.232.210.1:47000/play/cnnchilehd
 http://45.232.210.1:47000/play/a07d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T13 en vivo" tvg-logo="https://cdn-w.tvdaldia.cl/canales/t13envivo.png" group-title="NACIONALES",T13 en vivo
 https://marine2.miplay.cl/t13/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTES",TNT Sports HD
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT Sports HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTES",TNT Sports HD
 http://45.232.210.1:47000/play/cdfhd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports 3" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1684888074445" group-title="DEPORTES",TNT Sports 3
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-name="TNT Sports 3" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1684888074445" group-title="DEPORTES",TNT Sports 3
 http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN - Chile" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN - Chile
 http://45.232.210.1:47000/play/a0ax
@@ -137,6 +137,8 @@ http://51.159.111.60:18000/M_Vamos/hls/playlist.m3u8
 http://51.159.111.60:18000/DAZN_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 - España" tvg-logo="" group-title="DEPORTES",DAZN 2 - España
 http://51.159.111.60:18000/DAZN_2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN F1 - España" tvg-logo="" group-title="DEPORTES",DAZN 2 - España
+http://51.159.111.60:18000/DAZN_F1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 - España" tvg-logo="" group-title="DEPORTES",Eurosport 1 - España
 http://51.159.111.60:18000/Eurosport_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 2 - España" tvg-logo="" group-title="DEPORTES",Eurosport 2 - España
