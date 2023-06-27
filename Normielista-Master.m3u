@@ -97,31 +97,31 @@ http://45.186.252.17:8000/play/a03w
 http://45.186.252.17:8000/play/a023
 #EXTINF:-1 tvg-id="607dtv.ar" tvg-name="Fox Sports 3 - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="DEPORTES",Fox Sports 3 - Argentina
 http://45.186.252.17:8000/play/a01e
-#EXTINF:-1 tvg-id="fox-sports.mx" tvg-name="Fox Sports - México" tvg-logo="" group-title="DEPORTES",Fox Sports - México
+#EXTINF:-1 tvg-id="fox-sports.mx" tvg-name="Fox Sports - México" tvg-logo="https://i.imgur.com/TJsHUSM.png" group-title="DEPORTES",Fox Sports - México
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQnV4m6cX7R0H2S5juDYY3es/ts
-#EXTINF:-1 tvg-id="fox-sports.mx" tvg-name="Fox Sports - México [MPD]" tvg-logo="" group-title="DEPORTES",Fox Sports - México [MPD]
+#EXTINF:-1 tvg-id="fox-sports.mx" tvg-name="Fox Sports - México [MPD]" tvg-logo="https://i.imgur.com/TJsHUSM.png" group-title="DEPORTES",Fox Sports - México [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gG8YHFRdzJsugpWGbX_LWA","kid":"7t4TEF53XPGOetIFeKtwHA"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-name="Fox Sports 2 - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="DEPORTES",Fox Sports 2 - México
+#EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-name="Fox Sports 2 - México" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México
 http://dnsplay.xyz:80/cepwhfgl/md5G7R4pn2/302653
-#EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-name="Fox Sports 2 - México [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="DEPORTES",Fox Sports 2 - México [MPD]
+#EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-name="Fox Sports 2 - México [MPD]" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xo1p7aggA9CV1GaiSSt9Dg","kid":"S1aen4JmVC+j9ALDBXy5jA"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1120/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-id="fox-sports-3.mx" tvg-name="Fox Sports 3 - México" tvg-logo="" group-title="DEPORTES",Fox Sports 3 - México
+#EXTINF:-1 tvg-id="fox-sports-3.mx" tvg-name="Fox Sports 3 - México" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - México
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQhDLY6Fd_s6ncT5Y5trc5b4/ts
-#EXTINF:-1 tvg-id="fox-sports-3.mx" tvg-name="Fox Sports 3 - México [MPD]" tvg-logo="" group-title="DEPORTES",Fox Sports 3 - México [MPD]
+#EXTINF:-1 tvg-id="fox-sports-3.mx" tvg-name="Fox Sports 3 - México [MPD]" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - México [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mn9ehhhGigRUlMu4dSh0ZA","kid":"Fl8L+lI5VICB5OJ/hBDW5g"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1124/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="DEPORTES",Fox Sports Premium - México
 http://168.228.194.33:48001/play/a0bu/index.m3u8
-#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="Fox Sports 1 - Chile" tvg-logo="" group-title="DEPORTES",Fox Sports 1 - Chile
+#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="Fox Sports 1 - Chile" tvg-logo="https://i.imgur.com/CYb3ifm.png" group-title="DEPORTES",Fox Sports 1 - Chile
 http://45.232.210.1:47000/play/a07k
-#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="Fox Sports 2 - Sudamérica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="DEPORTES",Fox Sports 2 - Sudamérica
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="Fox Sports 2 - Latinoamérica" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - Latinoamérica
 http://45.232.210.1:47000/play/a0at
-#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="Fox Sports 3 - Latinoamérica" tvg-logo="" group-title="DEPORTES",Fox Sports 3 - Latinoamérica
+#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="Fox Sports 3 - Latinoamérica" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - Latinoamérica
 http://45.232.210.1:47000/play/foxsports3hd
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports - Argentina
 http://45.186.252.17:8000/play/a01d
@@ -153,7 +153,7 @@ http://190.83.60.34:1414/play/a04f
 http://45.5.117.172:8000/play/a0h1/index.m3u8
 #EXTINF:-1 tvg-id="beinsportsspanish.us" tvg-name="beIN Sports en Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76943_dark_360w_270h.png" group-title="DEPORTES",beIN Sports en Español
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/1647.ts
-#EXTINF:-1 tvg-id="beinx-es1.us" tvg-name="beIN Sports Xtra en Español" tvg-logo="" group-title="DEPORTES",beIN Sports Xtra en Español
+#EXTINF:-1 tvg-id="beinx-es1.us" tvg-name="beIN Sports Xtra en Español" tvg-logo="https://i.imgur.com/laikTq4.png" group-title="DEPORTES",beIN Sports Xtra en Español
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="clarosports.cl" tvg-name="Claro Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES",Claro Sports
 http://190.149.66.90:4000/play/a008/index.m3u8
@@ -185,9 +185,9 @@ http://45.232.210.1:8062/play/a09d/index.m3u8
 http://45.232.210.1:47000/play/a06f
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="Warner Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CINE Y SERIES",Warner Channel
 http://45.232.210.1:8062/play/a08q/index.m3u8
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="CINE Y SERIES",FX
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX" tvg-logo="https://i.imgur.com/ieshmNx.png" group-title="CINE Y SERIES",FX
 http://45.232.210.1:8062/play/a0b8/index.m3u8
-#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="CINE Y SERIES",FX [MPD]
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="FX [MPD]" tvg-logo="https://i.imgur.com/ieshmNx.png" group-title="CINE Y SERIES",FX [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RGkkVwMx2t5RzE7tvx4BPw","kid":"HBKxKqZCWI6LFhgsWxtGLg"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1128/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -195,7 +195,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1128/manifest.mpd|User-Agent="Mozilla
 http://45.232.210.1:47000/play/a06d
 #EXTINF:-1 tvg-id="207dtv.cl" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="CINE Y SERIES",A&E
 http://45.232.210.1:47000/play/aehd
-#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="Space" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" group-title="CINE Y SERIES",Space
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="Space" tvg-logo="https://i.imgur.com/0KfVh1P.png" group-title="CINE Y SERIES",Space
 http://45.232.210.1:47000/play/a06g
 #EXTINF:-1 tvg-id="510dtv.cl" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="CINE Y SERIES",Paramount Network
 http://45.232.210.1:47000/play/a05j
@@ -217,7 +217,7 @@ http://167.250.39.130:8000/play/syfy
 http://45.186.252.17:8000/play/a01l
 #EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TBS - Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="CINE Y SERIES",TBS - Sur
 http://190.43.92.175:8989/play/a0xw/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS - Panregional" tvg-logo="" group-title="CINE Y SERIES",TBS - Panregional
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS - Panregional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="CINE Y SERIES",TBS - Panregional
 http://190.6.203.198:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzEyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684892270334" group-title="CINE Y SERIES",Sony Movies
 http://45.5.117.172:8000/play/a0gx/index.m3u8
@@ -241,7 +241,7 @@ http://177.234.230.226:8010/play/a00i/index.m3u8
 https://dtvott-abc.akamaized.net/dash_live_1238/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id=de-pelicula.mx" tvg-name="De Pelicula" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="CINE Y SERIES",De Pelicula
 http://168.228.194.33:48001/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-id="de-pelicula-hd.mx" tvg-name="De Pelicula Plus [MPD]" tvg-logo="" group-title="CINE Y SERIES",De Pelicula Plus [MPD]
+#EXTINF:-1 tvg-id="de-pelicula-hd.mx" tvg-name="De Pelicula Plus [MPD]" tvg-logo="https://i.imgur.com/aDrzqx8.png" group-title="CINE Y SERIES",De Pelicula Plus [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Cp2w4I0Lc35qZOyu1SXUyw","kid":"cKOrHqPEXdVw2ipmCuXu2g"}],"type":"temporary"}
 https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -251,11 +251,11 @@ http://190.83.60.34:1414/play/a03y
 http://45.5.117.172:8000/play/a0ik/index.m3u8
 #EXTINF:-1 tvg-id="Multipremier.mx" tvg-name="Multipremier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="CINE Y SERIES",Multipremier
 http://177.234.230.226:8010/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="503dtv.cl" tvg-name="Golden" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="CINE Y SERIES",Golden
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-name="Golden" tvg-logo="https://i.imgur.com/fqkinet.png" group-title="CINE Y SERIES",Golden
 http://190.6.203.198:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-name="Golden Edge" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="CINE Y SERIES",Golden Edge
 http://45.238.20.129:8000/play/a02s
-#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="Golden Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="CINE Y SERIES",Golden Plus
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="Golden Plus" tvg-logo="https://i.imgur.com/k7uCDly.png" group-title="CINE Y SERIES",Golden Plus
 http://45.232.210.1:47000/play/goldenhd
 #EXTINF:-1 tvg-id="1524dtv.co" tvg-name="HBO Este" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Este
 http://190.83.60.34:1414/play/a03q
@@ -317,7 +317,7 @@ http://45.232.210.1:47000/play/a0ak
 http://45.232.210.1:47000/play/a05i
 #EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="INFANTIL",Nickelodeon
 http://45.232.210.1:47000/play/a0fg
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dreamworks Channel" tvg-logo="" group-title="INFANTIL",Dreamworks Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dreamworks Channel" tvg-logo="https://i.imgur.com/7YC9C1P.png" group-title="INFANTIL",Dreamworks Channel
 http://181.78.11.238:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BabyTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="INFANTIL",BabyTV
 http://45.225.95.170:8000/play/a0ix/index.m3u8
@@ -337,11 +337,11 @@ http://190.149.66.90:4000/play/a028/index.m3u8
 http://45.225.95.170:8000/play/a0gx/index.m3u8
 #EXTINF:-1 tvg-id="146dtv.cl" tvg-name="NTV" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_ntv.png" group-title="INFANTIL",NTV
 http://45.232.210.1:47000/play/a057
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FunBox" tvg-logo="" group-title="INFANTIL",FunBox
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FunBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/1024px-FunBox_TV_logo.svg.png" group-title="INFANTIL",FunBox
 http://177.234.230.226:8010/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="850mvstr.cl" tvg-name="ETC" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_etc.png" group-title="INFANTIL",ETC
 http://45.238.20.129:8000/play/a032
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Senpai TV" tvg-logo="" group-title="INFANTIL",Senpai TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Senpai TV" tvg-logo="https://www.senpaitv.com/wp-content/uploads/2022/03/logosenpai.png" group-title="INFANTIL",Senpai TV
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQv1a_MCzSokkTnHPOpAMSM0BFYHkLkhqrkk5Dl-lguuE/ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BitMe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72801_dark_360w_270h.png" group-title="INFANTIL",BitMe
 http://45.189.117.202:48000/play/a01w/index.m3u8
@@ -371,13 +371,13 @@ https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 https://stv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UES TV" tvg-logo="" group-title="REGIONALES",UES TV
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ucv-tv.cl" tvg-name="UCV TV" tvg-logo="" group-title="REGIONALES",UCV TV
+#EXTINF:-1 tvg-id="ucv-tv.cl" tvg-name="UCV TV" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_ucvtv.png" group-title="REGIONALES",UCV TV
 https://pantera1-100gb-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVU" tvg-logo="" group-title="REGIONALES",TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universidad Autónoma TV" tvg-logo="" group-title="REGIONALES",Universidad Autónoma TV
 https://pantera1-100gb-cl-movistar.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 9 Bío-Bío Televisión" tvg-logo="" group-title="REGIONALES",Canal 9 Bío-Bío Televisión
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 9 Bío-Bío Televisión" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_c9biobio.png" group-title="REGIONALES",Canal 9 Bío-Bío Televisión
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV Patagonia" tvg-logo="" group-title="REGIONALES",ITV Patagonia
 https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8
@@ -393,7 +393,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd|User-Agent="Mozil
 http://45.5.117.172:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80's" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's
 http://45.5.117.172:8000/play/a0ge/index.m3u8
-#EXTINF:-1 tvg-id="MTV90S.es" tvg-name="MTV 90's" tvg-logo="" group-title="MÚSICA",MTV 90's
+#EXTINF:-1 tvg-id="MTV90S.es" tvg-name="MTV 90's" tvg-logo="https://i.imgur.com/DOMYSRo.png" group-title="MÚSICA",MTV 90's
 http://37.48.101.149:7018/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="262dtv.cl" tvg-name="MTV 00's" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="MÚSICA",MTV 00's
 http://45.5.117.172:8000/play/a0i0/index.m3u8
@@ -401,9 +401,9 @@ http://45.5.117.172:8000/play/a0i0/index.m3u8
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7305.ts
 #EXTINF:-1 tvg-id="MTVLIVE.us" tvg-name="MTV Live - Estados Unidos" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png" group-title="MÚSICA",MTV Live - Estados Unidos
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7306.ts
-#EXTINF:-1 tvg-id="ClubMTV.es" tvg-name="Club MTV" tvg-logo="" group-title="MÚSICA",Club MTV
+#EXTINF:-1 tvg-id="ClubMTV.es" tvg-name="Club MTV" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/558/index.m3u8
-#EXTINF:-1 tvg-id="ClubMTV.es" tvg-name="Club MTV [MPD]" tvg-logo="" group-title="MÚSICA",Club MTV [MPD]
+#EXTINF:-1 tvg-id="ClubMTV.es" tvg-name="Club MTV [MPD]" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jI89dX20H02JpW2C3PNZ3g","kid":"MYCbrwvnS9VBOcfjOe+WGA"}],"type":"temporary"}
 http://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -427,19 +427,19 @@ http://200.229.147.76:4000/play/a0i1/index.m3u8
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="MÚSICA",Telehit Música Plus
 http://190.43.92.175:8989/play/a0of/index.m3u8
-#EXTINF:-1 tvg-id="claromusica.cl" tvg-name="Claro Música Sin Limites" tvg-logo="" group-title="MÚSICA",Claro Música Sin Limites
+#EXTINF:-1 tvg-id="claromusica.cl" tvg-name="Claro Música Sin Limites" tvg-logo="https://i.imgur.com/BlBgOHU.png" group-title="MÚSICA",Claro Música Sin Limites
 http://45.232.210.1:8062/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-id="ConcertChannel.co" tvg-name="Concert Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72020_dark_360w_270h.png" group-title="MÚSICA",Concert Channel
 http://190.149.66.90:4000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray iConcerts" tvg-logo="" group-title="MÚSICA",Stingray iConcerts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stingray iConcerts" tvg-logo="https://i.imgur.com/oXZ7CwK.png" group-title="MÚSICA",Stingray iConcerts
 http://190.43.92.175:8989/play/a0ol/index.m3u8
 #EXTINF:-1 tvg-id="EXATV.mx" tvg-name="ExaTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png" group-title="MÚSICA",ExaTV
 http://45.5.117.172:8000/play/a0hk/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Karavana TV" tvg-logo="" group-title="MÚSICA",Karavana TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Karavana TV" tvg-logo="http://karavanatv.com/wp-content/uploads/2022/12/KARAVANA-TV-1-e1671212655177.png" group-title="MÚSICA",Karavana TV
 https://marine2.miplay.cl/karavanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV.ar" tvg-name="HTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png" group-title="MÚSICA",HTV
 http://45.225.95.170:8000/play/a0ib/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Via X 2" tvg-logo="" group-title="MÚSICA",Via X 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Via X 2" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/89/ViaX2.png/revision/latest?cb=20160228011519&path-prefix=es" group-title="MÚSICA",Via X 2
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQrf087rItPCNSBTJd3ZrKkvywXfrUkKjt6eL8BioIcgc/ts
 #EXTINF:-1 tvg-id="MuchMusic.do" tvg-name="MuchMusic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16262_dark_360w_270h.png" group-title="MÚSICA",MuchMusic
 http://200.229.147.76:4000/play/a0ix/index.m3u8
@@ -477,19 +477,19 @@ http://204.199.120.34:16123/play/ch54
 http://177.234.230.226:8010/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MiMusica Reggaeton" tvg-logo="" group-title="MÚSICA",MiMusica Reggaeton
 http://177.234.230.226:8010/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Carolina TV" tvg-logo="" group-title="MÚSICA",Carolina TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Carolina TV" tvg-logo="https://i.imgur.com/VyV5krv.png" group-title="MÚSICA",Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Carolina TV 2" tvg-logo="" group-title="MÚSICA",Carolina TV 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Carolina TV 2" tvg-logo="https://i.imgur.com/VyV5krv.png" group-title="MÚSICA",Carolina TV 2
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Biggest Pop" tvg-logo="" group-title="MÚSICA",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Block Party" tvg-logo="" group-title="MÚSICA",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Pop" tvg-logo="" group-title="MÚSICA",Vevo Pop
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1920px-Vevo_2016_Logo.svg.png" group-title="MÚSICA",Vevo Pop
 https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Reggaeton & Trap" tvg-logo="" group-title="MÚSICA",Vevo Reggaeton & Trap
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Reggaeton & Trap" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1920px-Vevo_2016_Logo.svg.png"" group-title="MÚSICA",Vevo Reggaeton & Trap
 https://i.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Retro Rock" tvg-logo="" group-title="MÚSICA",Vevo Retro Rock
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Retro Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1920px-Vevo_2016_Logo.svg.png" group-title="MÚSICA",Vevo Retro Rock
 https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="CULTURA",Discovery Channel
 http://45.232.210.1:47000/play/a0e1
@@ -505,7 +505,7 @@ http://45.232.210.1:47000/play/a0e4
 http://179.189.222.226:8000/play/ch50
 #EXTINF:-1 tvg-id="DiscoveryWorld.co" tvg-name="Discovery World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="CULTURA",Discovery World
 http://45.232.210.1:47000/play/a05b
-#EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="13C" tvg-logo="" group-title="CULTURA",13C
+#EXTINF:-1 tvg-id="865mvstr.cl" tvg-name="13C" tvg-logo="https://i.imgur.com/oY8d1Rx.png" group-title="CULTURA",13C
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQrdd2_fTZ6qLp5RQzRz1wWx32eGD9r9UB5A22dveC4gT/ts
 #EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="CULTURA",Discovery Science
 http://45.225.95.170:8000/play/a0gy/index.m3u8
@@ -518,17 +518,17 @@ https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd|User-Age
 http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5fbc4110-d0be-11ed-8a38-055f9c4ae0c5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5c10ef4-15f9-484b-9425-10832b72b017&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="Discovery Theater" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="CULTURA",Discovery Theater
 http://45.232.210.1:47000/play/a0am
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Á" tvg-logo="" group-title="CULTURA",Canal Á
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Á" tvg-logo="https://i.imgur.com/zOcEQ0p.png" group-title="CULTURA",Canal Á
 http://45.186.252.17:8000/play/a00s
-#EXTINF:-1 tvg-id="discoverymax.es" tvg-name="DMAX" tvg-logo="" group-title="CULTURA",DMAX
+#EXTINF:-1 tvg-id="discoverymax.es" tvg-name="DMAX" tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWl0Iiwia2V5IjoiZG1heHNwYWluLWltYWdlLTYyNmIyYjUxLTMwNzYtNDM3NC1iMWIxLWMwMGVlYjRkNGVhYS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJ3aWR0aCI6MjAwfSwicG5nIjp7InF1YWxpdHkiOjU1LCJwcm9ncmVzc2l2ZSI6dHJ1ZSwicGFsZXR0ZSI6dHJ1ZSwiY29sb3VycyI6OH19fQ==" group-title="CULTURA",DMAX
 http://168.228.194.33:48001/play/z11/index.m3u8
 #EXTINF:-1 tvg-id="229dtv.co" tvg-name="Discovery Home & Health" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24424_dark_360w_270h.png" group-title="VARIEDADES",Discovery Home & Health
 http://45.232.210.1:47000/play/a0al
 #EXTINF:-1 tvg-id="221dtv.cl" tvg-name="¡Hola TV!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png" group-title="VARIEDADES",¡Hola TV!
 http://45.5.117.172:8000/play/a0hx/index.m3u8
-#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TNT Novelas" tvg-logo="" group-title="VARIEDADES",TNT Novelas
+#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TNT Novelas" tvg-logo="https://i.imgur.com/TGew5fX.png" group-title="VARIEDADES",TNT Novelas
 http://190.43.92.175:8989/play/a0vq/index.m3u8
-#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TNT Novelas HD [MPD]" tvg-logo="" group-title="VARIEDADES",TNT Novelas HD [MPD]
+#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TNT Novelas HD [MPD]" tvg-logo="https://i.imgur.com/TGew5fX.png" group-title="VARIEDADES",TNT Novelas HD [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBgg0mY7qybgGkvcv3HkQw","kid":"SessGL7WUsyTyHXOu5r0Dg"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1212/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -566,13 +566,13 @@ http://190.60.37.127:8001/play/a039/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b+rOw3GbrbxRlv+wxXG4/Q","kid":"bJq3mEeDVJS87othh2gAQA"},{"kty":"oct","k":"QSz3xb7JAGQEVgCoVReMpw","kid":"qoYKw4gkU7urRr7StIp6Bw"},{"kty":"oct","k":"TzDcV0FrEp5VEUgaJX2YsQ","kid":"DB/AG7RTVgSqHYnojHH0cw"}],"type":"temporary"}
 https://tvup-ccpv2-live.secure2.footprint.net/telenovelas/telenovelas.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mega Ficción" tvg-logo="" group-title="VARIEDADES",Mega Ficción
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mega Ficción" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_megaficcion.png" group-title="VARIEDADES",Mega Ficción
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQu4GCunM5E6dIzprQxJ5D5NErcbk-K1Knkc96QDimmPj/ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mega Plus" tvg-logo="" group-title="VARIEDADES",Mega Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mega Plus" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_megaplus.png" group-title="VARIEDADES",Mega Plus
 https://marine2.miplay.cl/megaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="viax.cl" tvg-name="Vía X" tvg-logo="" group-title="VARIEDADES",Vía X
+#EXTINF:-1 tvg-id="viax.cl" tvg-name="Vía X" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_viax.png" group-title="VARIEDADES",Vía X
 http://45.225.95.170:8000/play/a0g3/index.m3u8
-#EXTINF:-1 tvg-id="801mvstr.cl" tvg-name="Zona Latina" tvg-logo="" group-title="VARIEDADES",Zona Latina
+#EXTINF:-1 tvg-id="801mvstr.cl" tvg-name="Zona Latina" tvg-logo="https://i.imgur.com/eFaOYK7.png" group-title="VARIEDADES",Zona Latina
 http://45.225.95.170:8000/play/a0g2/index.m3u8
 #EXTINF:-1 tvg-id="Clic.mx" tvg-name="AZ Clic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92197_dark_360w_270h.png" group-title="VARIEDADES",AZ Clic
 http://45.5.117.172:8000/play/a0gz/index.m3u8
@@ -580,29 +580,29 @@ http://45.5.117.172:8000/play/a0gz/index.m3u8
 http://45.189.117.202:48000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="741dtv.cl" tvg-name="Sun Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60329_dark_360w_270h.png" group-title="VARIEDADES",Sun Channel
 http://45.232.210.1:47000/play/a0aj
-#EXTINF:-1 tvg-id="236dtv.ar" tvg-name="Ciudad Magazine" tvg-logo="" group-title="VARIEDADES",Ciudad Magazine
+#EXTINF:-1 tvg-id="236dtv.ar" tvg-name="Ciudad Magazine" tvg-logo="https://i.imgur.com/cvmpR2N.png" group-title="VARIEDADES",Ciudad Magazine
 http://45.186.252.17:8000/play/a011
 #EXTINF:-1 tvg-id="760dtv.cl" tvg-name="Univisión Latinoamérica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="VARIEDADES",Univisión Latinoamérica
 http://45.228.232.204:16000/play/a081/index.m3u8
-#EXTINF:-1 tvg-id="rec-tv.cl" tvg-name="RecTV" tvg-logo="" group-title="VARIEDADES",RecTV
+#EXTINF:-1 tvg-id="rec-tv.cl" tvg-name="RecTV" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_rec.png" group-title="VARIEDADES",RecTV
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQq_Zwl5ly2wLfcFdSlBC-fSuSbvLg9LBGb1-9fSLXB8v/ts
 #EXTINF:-1 tvg-id="892mvstr.cl" tvg-name="Kanal D Drama" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112558_dark_360w_270h.png" group-title="VARIEDADES",Kanal D Drama
 http://190.83.60.34:1414/play/a03t
 #EXTINF:-1 tvg-id="235dtv.cl" tvg-name="IVC - Panregional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97002_dark_360w_270h.png" group-title="VARIEDADES",IVC - Panregional
 http://177.93.45.108:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IVC - Venezuela" tvg-logo="" group-title="VARIEDADES",IVC - Venezuela
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IVC - Venezuela" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97002_dark_360w_270h.png" group-title="VARIEDADES",IVC - Venezuela
 http://177.93.45.155:6143/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="Star TVE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="VARIEDADES",Star TVE
 http://190.83.60.34:1414/play/a03x
 #EXTINF:-1 tvg-id="CanalInti.co" tvg-name="Inti Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82162_dark_360w_270h.png" group-title="VARIEDADES",Inti Network
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQqdBqs9jz3F2iYt0KD9knmieFUShYqcBPubjaS36xGnN/ts
-#EXTINF:-1 tvg-id="201dtv.co" tvg-name="OnDirecTV" tvg-logo="" group-title="VARIEDADES",OnDirecTV
+#EXTINF:-1 tvg-id="201dtv.co" tvg-name="OnDirecTV" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1687830513236" group-title="VARIEDADES",OnDirecTV
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQnt9XAH2fMrnSDYyWIYFBdItZD8gYLoipCiZOnxHfIKw/ts
-#EXTINF:-1 tvg-id="201dtv.cl" tvg-name="OnDirecTV [MPD]" tvg-logo="" group-title="VARIEDADES",OnDirecTV [MPD]
+#EXTINF:-1 tvg-id="201dtv.cl" tvg-name="OnDirecTV [MPD]" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1687830513236" group-title="VARIEDADES",OnDirecTV [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"m9Z5pDpLV4ZJWdsQWkL66g","kid":"ZOdENn4WUI+YuiebM1ftKA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-id="201dtv.co" tvg-name="OnDirecTV Norte [MPD]" tvg-logo="" group-title="VARIEDADES",OnDirecTV Norte [MPD]
+#EXTINF:-1 tvg-id="201dtv.co" tvg-name="OnDirecTV Norte [MPD]" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1687830513236" group-title="VARIEDADES",OnDirecTV Norte [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aIZfLcKMjrrAPIqdO3ngWg","kid":"EpaKTR3iXpKKdZ7KoW6QDA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1177/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -622,7 +622,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 http://45.225.95.170:8000/play/a0g4/index.m3u8
 #EXTINF:-1 tvg-id="euronews.mx" tvg-name="Euronews en Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40704_dark_360w_270h.png" group-title="MUNDOS",Euronews en Español
 http://177.234.230.226:8010/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT en Español" tvg-logo="" group-title="MUNDOS",RT en Español
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RT en Español" tvg-logo="https://i.imgur.com/CKA0DKh.png" group-title="MUNDOS",RT en Español
 http://160.20.165.246:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.mx" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110959_dark_360w_270h.png" group-title="MUNDOS",Fox News
 http://45.225.95.170:8000/play/a0hw/index.m3u8
@@ -651,7 +651,7 @@ http://190.6.203.198:8000/play/a05f/index.m3u8
 https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="CGTNEspanol.co" tvg-name="CGTN Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_dark_360w_270h.png" group-title="MUNDOS",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HispanTV" tvg-logo="" group-title="MUNDOS",HispanTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HispanTV" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="MUNDOS",HispanTV
 https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="774dtv.co" tvg-name="TV Chile" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" group-title="MUNDOS",TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
@@ -663,7 +663,7 @@ http://45.186.252.17:8000/play/a02i
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b3ZjSxTiQ_G87hxfzYo5PA","kid":"0U_KVQrbW3W7NPDEKqKB3Q"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-id="122dtv.ar" tvg-name="El Nueve - Argentina" tvg-logo="" group-title="MUNDOS",El Nueve - Argentina
+#EXTINF:-1 tvg-id="122dtv.ar" tvg-name="El Nueve - Argentina" tvg-logo="https://i.imgur.com/Y8EWvt2.png" group-title="MUNDOS",El Nueve - Argentina
 http://45.186.252.17:8000/play/a04o
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-name="TV Pública - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="MUNDOS",TV Pública - Argentina
 http://181.119.66.30:8000/play/47/index.m3u8
@@ -689,7 +689,7 @@ https://kafra25.webcindario.com/tutube.php?id=@lanacion&f=.m3u8
 https://kafra25.webcindario.com/tutube.php?id=@A24com&f=.m3u8
 #EXTINF:-1 tvg-id="717dtv.ar" tvg-name="C5N" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" group-title="MUNDOS",C5N
 https://kafra25.webcindario.com/tutube.php?id=@c5n&f=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IP - Argentina" tvg-logo="" group-title="MUNDOS",IP - Argentina
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IP - Argentina" tvg-logo="https://ipnoticias.ar/_next/image?url=%2Flogo-ip-header-C.png&w=128&q=75" group-title="MUNDOS",IP - Argentina
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-name="Canal 26 - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="MUNDOS",Canal 26 - Argentina
 https://kafra25.webcindario.com/tutube.php?id=@canal26&f=.m3u8
