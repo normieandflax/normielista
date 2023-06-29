@@ -217,9 +217,7 @@ http://45.232.210.1:47000/play/a0bf
 http://167.250.39.130:8000/play/syfy
 #EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film & Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="CINE Y SERIES",Film & Arts
 http://45.186.252.17:8000/play/a01l
-#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TBS - Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="CINE Y SERIES",TBS - Sur
-http://190.43.92.175:8989/play/a0xw/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TBS - Panregional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="CINE Y SERIES",TBS - Panregional
+#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TBS - Panregional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="CINE Y SERIES",TBS - Panregional
 http://190.6.203.198:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzEyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684892270334" group-title="CINE Y SERIES",Sony Movies
 http://45.5.117.172:8000/play/a0gx/index.m3u8
@@ -320,7 +318,7 @@ http://45.232.210.1:47000/play/a05i
 #EXTINF:-1 tvg-id="308dtv.cl" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="INFANTIL",Nickelodeon
 http://45.232.210.1:47000/play/a0fg
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks Channel" tvg-logo="https://i.imgur.com/7YC9C1P.png" group-title="INFANTIL",Dreamworks Channel
-http://181.78.11.238:8000/play/a09f/index.m3u8
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQsYGdY6hevmocqftsBexv8URdsWRobK_FHHLHSJzEs_V/ts
 #EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="INFANTIL",BabyTV
 http://45.225.95.170:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="BabyTV HD [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="INFANTIL",BabyTV HD [MPD]
