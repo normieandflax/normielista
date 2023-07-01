@@ -60,11 +60,13 @@ http://45.166.92.22:58001/play/a02m/index.m3u8
 http://45.232.210.1:47000/play/a05e
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra - Centroamérica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - Centroamérica
 http://190.6.203.198:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - México [MPD]
+http://187.251.240.18:1099/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra - México [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - México [MPD]
 #EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/dash/default.mpd
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/dash/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="DEPORTES",ESPN Deportes
 http://168.228.194.33:48001/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ESPN Premium - Argentina" tvg-logo="" group-title="DEPORTES",ESPN Premium - Argentina
@@ -149,6 +151,10 @@ http://51.159.111.60:18000/Eurosport_2/hls/playlist.m3u8
 http://168.228.194.33:48001/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUDN - Estados Unidos" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQvqMtmBcpz1YYvZUYtEVpIU/ts
+#EXTINF:-1 tvg-id="" tvg-name="TUDN - Estados Unidos [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos [MPD]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SghV4vr1SRDjuw7tWBEeyA","kid":"9OVftVcOTTyyoKX0FvckzA"}],"type":"temporary"}
+https://edzetacl.cloud/clear/?id=TUDNUS
 #EXTINF:-1 tvg-id="" tvg-name="GolTV" tvg-logo="" group-title="DEPORTES",GolTV
 http://190.83.60.34:1414/play/a04f
 #EXTINF:-1 tvg-id="628dtv.cl" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="DEPORTES",Golf Channel
@@ -217,8 +223,11 @@ http://45.232.210.1:47000/play/a0bf
 http://167.250.39.130:8000/play/syfy
 #EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film & Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="CINE Y SERIES",Film & Arts
 http://45.186.252.17:8000/play/a01l
-#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TBS - Panregional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="CINE Y SERIES",TBS - Panregional
-http://190.6.203.198:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TBS - Panregional [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="CINE Y SERIES",TBS - Panregional
+#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://edge1-zapopan.izzigo.tv/live3/out/u/dash/TBS-SD/dash/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzEyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684892270334" group-title="CINE Y SERIES",Sony Movies
 http://45.5.117.172:8000/play/a0gx/index.m3u8
 #EXTINF:-1 tvg-id="1515dtv.cl" tvg-name="Europa Europa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27741_dark_360w_270h.png" group-title="CINE Y SERIES",Europa Europa
@@ -416,7 +425,7 @@ http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQsDyUhUYgGDTUf31ge3RFoE
 #EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/4V08Cp06lwdyDbGqaAMgQ","kid":"hgjzLafeqW9DAR7sqxOsdw"}],"type":"temporary"}
-https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
+https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="MÚSICA",Telehit
 http://200.229.147.76:4000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telehit [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="MÚSICA",Telehit [MPD]
@@ -431,13 +440,13 @@ http://200.229.147.76:4000/play/a0i1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o3XQhiQpqNJv/2ZV5IZc1Q","kid":"EQg3dH7ihdTP0RRaEyiNNQ"}],"type":"temporary"}
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="MÚSICA",Telehit Música Plus
-http://190.43.92.175:8989/play/a0of/index.m3u8
+http://138.0.90.13:8001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="claromusica.cl" tvg-name="Claro Música Sin Limites" tvg-logo="https://i.imgur.com/BlBgOHU.png" group-title="MÚSICA",Claro Música Sin Limites
 http://45.232.210.1:8062/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72020_dark_360w_270h.png" group-title="MÚSICA",Concert Channel
 http://190.149.66.90:4000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray iConcerts" tvg-logo="https://i.imgur.com/oXZ7CwK.png" group-title="MÚSICA",Stingray iConcerts
-http://190.43.92.175:8989/play/a0ol/index.m3u8
+http://138.0.90.13:8001/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ExaTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png" group-title="MÚSICA",ExaTV
 http://45.5.117.172:8000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Karavana TV" tvg-logo="http://karavanatv.com/wp-content/uploads/2022/12/KARAVANA-TV-1-e1671212655177.png" group-title="MÚSICA",Karavana TV
@@ -464,7 +473,7 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bandamax.mx" tvg-name="Bandamax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="MÚSICA",Bandamax
 http://200.229.147.76:4000/play/a0hw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RumbaTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73376_dark_360w_270h.png" group-title="MÚSICA",RumbaTV
-http://190.61.44.122:8000/play/a06q/index.m3u8
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9U_hmU-UTryAOBYsqtz62E1t9gbD9xocMBHfsDg4aVmU/ts
 #EXTINF:-1 tvg-id="" tvg-name="Telenostalgia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77429_dark_360w_270h.png" group-title="MÚSICA",Telenostalgia
 http://190.90.251.194:8921/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="1269dtv.ar" tvg-name="Quiero Música en mi Idioma" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75978_dark_360w_270h.png" group-title="MÚSICA",Quiero Música en mi Idioma
@@ -487,6 +496,22 @@ http://177.234.230.226:8010/play/a020/index.m3u8
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Carolina TV 2" tvg-logo="https://i.imgur.com/VyV5krv.png" group-title="MÚSICA",Carolina TV 2
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Alternative" tvg-logo="" group-title="MÚSICA",Stingray Alternative
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="MÚSICA",Stingray Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-logo="" group-title="MÚSICA",Stingray Pop Adult
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-logo="" group-title="MÚSICA",Stingray Hit List
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Flashback 70's" tvg-logo="" group-title="MÚSICA",Stingray Flashback 70's
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80's" tvg-logo="" group-title="MÚSICA",Stingray Remember The 80's
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="MÚSICA",Stingray Greatest Hits
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Éxitos del Momento" tvg-logo="" group-title="MÚSICA",Stingray Éxitos del Momento
+https://stirr.ott-channels.stingray.com/190/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Biggest Pop" tvg-logo="" group-title="MÚSICA",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Block Party" tvg-logo="" group-title="MÚSICA",MTV Block Party
@@ -534,8 +559,8 @@ http://45.232.210.1:47000/play/a0al
 #EXTINF:-1 tvg-id="221dtv.cl" tvg-name="¡Hola TV!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png" group-title="VARIEDADES",¡Hola TV!
 http://45.5.117.172:8000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TNT Novelas" tvg-logo="https://i.imgur.com/TGew5fX.png" group-title="VARIEDADES",TNT Novelas
-http://190.43.92.175:8989/play/a0vq/index.m3u8
-#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TNT Novelas HD [MPD]" tvg-logo="https://i.imgur.com/TGew5fX.png" group-title="VARIEDADES",TNT Novelas HD [MPD]
+http://138.0.90.13:8001/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TNT Novelas [MPD]" tvg-logo="https://i.imgur.com/TGew5fX.png" group-title="VARIEDADES",TNT Novelas HD [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBgg0mY7qybgGkvcv3HkQw","kid":"SessGL7WUsyTyHXOu5r0Dg"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1212/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -673,7 +698,7 @@ https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-name="El Nueve - Argentina" tvg-logo="https://i.imgur.com/Y8EWvt2.png" group-title="MUNDOS",El Nueve - Argentina
 http://45.186.252.17:8000/play/a04o
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-name="TV Pública - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="MUNDOS",TV Pública - Argentina
-http://181.119.66.30:8000/play/47/index.m3u8
+http://179.0.104.255:8000/play/a014
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-name="TV Pública - Argentina [MPD]" group-title="MUNDOS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png", TV Pública - Argentina [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CzeyY6Csp7CPEgFLK3uSSA","kid":"X3ieu7ZJVXi0Ime2UFdPYg"}],"type":"temporary"}
@@ -681,14 +706,11 @@ https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd|User-Agent="Mozilla
 #EXTINF:-1 tvg-id="784dtv.cl" tvg-name="El Trece Internacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" group-title="MUNDOS",El Trece Internacional
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9e4pPL3L-x2Yif0eGeFotvcLrmzAJr3JOgoyGr9VrLCY/ts
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="MUNDOS",Las Estrellas - México
-http://190.61.102.67:2000/play/a00g/index.m3u8
+http://187.251.240.18:1099/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="azteca13.mx" tvg-name="Azteca Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="MUNDOS",Azteca Uno
-http://168.228.194.33:48001/play/a0ck/index.m3u8
+http://187.251.240.18:1099/play/a05j/index.m3u8
 #EXTINF:-1 tvg-id="azteca13.mx" tvg-name="Azteca Uno [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="MUNDOS",Azteca Uno [MPD]
-#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B3vUNRjOcQh5dLzKuhC44w","kid":"Gi2Mw52m4a2d9pPsOSFs4A"}],"type":"temporary"}
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="" tvg-name="AZ Mundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" group-title="MUNDOS",AZ Mundo
 http://45.189.117.202:48000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-name="La Nación +" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="MUNDOS",La Nación +
