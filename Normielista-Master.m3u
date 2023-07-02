@@ -359,7 +359,7 @@ https://marine2.miplay.cl/biobiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVR" tvg-logo="" group-title="REGIONALES",TVR
 https://pantera1-100gb-cl-movistar.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVMas2" tvg-logo="" group-title="REGIONALES",TVMas2
-https://panel.miplay.cl:8081/tvmas2/index.m3u8
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IvfyTslw6aYD4ld4x4pJLUC/ts
 #EXTINF:-1 tvg-id="" tvg-name="Wapp" tvg-logo="" group-title="REGIONALES",Wapp
 https://marine2.miplay.cl/wapp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tevex" tvg-logo="" group-title="REGIONALES",Tevex
