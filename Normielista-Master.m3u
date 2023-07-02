@@ -163,11 +163,6 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 http://190.149.66.90:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="637dtv.cl" tvg-name="CDO Premium" tvg-logo="" group-title="DEPORTES",CDO Premium
 http://45.225.95.170:8000/play/a0fl/index.m3u8
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#EXTINF:-1 tvg-id="637dtv.cl" tvg-name="CDO Premium [MPD]" tvg-logo="" group-title="DEPORTES",CDO Premium [MPD]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cdo.json
-https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1039
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",Discovery Turbo
 http://45.225.95.170:8000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo HD [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",Discovery Turbo HD [MPD]
@@ -225,10 +220,10 @@ http://167.250.39.130:8000/play/syfy
 #EXTINF:-1 tvg-id="746dtv.cl" tvg-name="Film & Arts" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="CINE Y SERIES",Film & Arts
 http://45.186.252.17:8000/play/a01l
 #EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TBS - Panregional [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="CINE Y SERIES",TBS - Panregional
-#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://edge1-zapopan.izzigo.tv/live3/out/u/dash/TBS-SD/dash/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTHTTP:{"User-Agent":"Chrome/106.0.0.0","Referer":"https://nowtv.express.com.ar/","Origin":"https://nowtv.express.com.ar/","Authority":"anbalancer.express.com.ar"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uam-Ir5nun-Udg6qkax-cA","kid":"CJLr-snwToaV8wsMgctw0Q"}],"type":"temporary"}
+https://anbalancer.express.com.ar/live/c1eds/TBS/SA_DASH_cipix/TBS.mpd
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-name="Sony Movies" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzEyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684892270334" group-title="CINE Y SERIES",Sony Movies
 http://45.5.117.172:8000/play/a0gx/index.m3u8
 #EXTINF:-1 tvg-id="1515dtv.cl" tvg-name="Europa Europa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27741_dark_360w_270h.png" group-title="CINE Y SERIES",Europa Europa
@@ -420,6 +415,8 @@ http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/558/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jI89dX20H02JpW2C3PNZ3g","kid":"MYCbrwvnS9VBOcfjOe+WGA"}],"type":"temporary"}
 http://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="" tvg-name="MTV Music" tvg-logo="" group-title="MÚSICA",MTV Music
+http://obsfullhd.tv:25461/@Mnetadmin/pNMkGMS5AK/1702
 #EXTINF:-1 tvg-id="268dtv.cl" tvg-name="NickMusic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQsDyUhUYgGDTUf31ge3RFoE/ts
 #EXTINF:-1 tvg-id="268dtv.cl" tvg-name="NickMusic [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic [MPD]
@@ -813,7 +810,7 @@ https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7V0MwDFtaZAqK2AS+z9Uww","kid":"YKVYxgmUXJqLidsmtEWgqg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1262/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="" tvg-name="Playboy TV" tvg-logo="" group-title="ADULTOS" parent-code="1190",Playboy TV
-http://190.149.66.90:4000/play/a00h/index.m3u8
+http://138.0.90.13:8001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="" group-title="ADULTOS" parent-code="1190",Venus
 http://45.225.95.170:8000/play/a0ft/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="" group-title="ADULTOS" parent-code="1190",Sextreme
