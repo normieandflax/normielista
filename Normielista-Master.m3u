@@ -62,11 +62,6 @@ http://45.232.210.1:47000/play/a05e
 http://190.6.203.198:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - México [MPD]
 http://187.251.240.18:1099/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra - México [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - México [MPD]
-#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/dash/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="DEPORTES",ESPN Deportes
 http://168.228.194.33:48001/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ESPN Premium - Argentina" tvg-logo="" group-title="DEPORTES",ESPN Premium - Argentina
@@ -239,13 +234,12 @@ http://177.234.230.226:8010/play/a00i/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/ag0V9VAkvly+OGn5gjxAg","kid":"bfQaglo+X7CS6YDkhzvPBw"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1238/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="" tvg-name="Panico HD" tvg-logo="" group-title="CINE Y SERIES",Panico HD
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQnuo900vcXXC9ZojmX60blbwLjSzOVajHhv1fBLiUR3G/ts
+#EXTINF:-1 tvg-id="" tvg-name="Morbido TV" tvg-logo="" group-title="CINE Y SERIES",Morbido TV
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQrM9pDJjxey0XnPbT6Roa8glfoIvTfLe2zGHta_XcvhZ/ts
 #EXTINF:-1 tvg-id=de-pelicula.mx" tvg-name="De Pelicula" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="CINE Y SERIES",De Pelicula
 http://168.228.194.33:48001/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-id="de-pelicula-hd.mx" tvg-name="De Pelicula Plus [MPD]" tvg-logo="https://i.imgur.com/aDrzqx8.png" group-title="CINE Y SERIES",De Pelicula Plus [MPD]
-#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Cp2w4I0Lc35qZOyu1SXUyw","kid":"cKOrHqPEXdVw2ipmCuXu2g"}],"type":"temporary"}
-https://live4-ott.izzigo.tv/out/u/dash/DE-PELICULA-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="" tvg-name="AZ Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95687_dark_360w_270h.png" group-title="CINE Y SERIES",AZ Cinema
 http://190.83.60.34:1414/play/a03y
 #EXTINF:-1 tvg-id="514dtv.cl" tvg-name="Cine Latino" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="CINE Y SERIES",Cine Latino
@@ -386,17 +380,12 @@ https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8
 http://45.232.210.1:47000/play/mtvhd
 #EXTINF:-1 tvg-id="261dtv.cl" tvg-name="MTV Hits" tvg-logo="" group-title="MÚSICA",MTV Hits
 http://45.5.117.172:8000/play/a0gd/index.m3u8
-#EXTINF:-1 tvg-id="261dtv.cl" tvg-name="MTV Hits [MPD]" tvg-logo="" group-title="MÚSICA",MTV Hits [MPD]
-#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"szbIxrskmxpfidrOjZiJ5Q","kid":"C1hovBYWNKAzoZog8/NZXQ"}],"type":"temporary"}
-http://kive4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="263dtv.cl" tvg-name="MTV Live - Europa" tvg-logo="" group-title="MÚSICA",MTV Live - Europa
 http://45.5.117.172:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's
 http://45.5.117.172:8000/play/a0ge/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV 90's" tvg-logo="https://i.imgur.com/DOMYSRo.png" group-title="MÚSICA",MTV 90's
-http://37.48.101.149:7018/play/a013/index.m3u8
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IvPIu3GTLUfPKOxlY6xXwHv/ts
 #EXTINF:-1 tvg-id="262dtv.cl" tvg-name="MTV 00's" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="MÚSICA",MTV 00's
 http://45.5.117.172:8000/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="MÚSICA",MTV Classic
@@ -405,33 +394,16 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7305.ts
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7306.ts
 #EXTINF:-1 tvg-id="" tvg-name="Club MTV" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/558/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Club MTV [MPD]" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV [MPD]
-#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jI89dX20H02JpW2C3PNZ3g","kid":"MYCbrwvnS9VBOcfjOe+WGA"}],"type":"temporary"}
-http://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="" tvg-name="MTV Music" tvg-logo="" group-title="MÚSICA",MTV Music
 http://obsfullhd.tv:25461/@Mnetadmin/pNMkGMS5AK/1702
 #EXTINF:-1 tvg-id="268dtv.cl" tvg-name="NickMusic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQsDyUhUYgGDTUf31ge3RFoE/ts
-#EXTINF:-1 tvg-id="268dtv.cl" tvg-name="NickMusic [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic [MPD]
-#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/4V08Cp06lwdyDbGqaAMgQ","kid":"hgjzLafeqW9DAR7sqxOsdw"}],"type":"temporary"}
-https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="268dtv.cl" tvg-name="NickMusic - Europa" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic - Europa
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9It86W7YuUqwc-481Em7p21P/ts
 #EXTINF:-1 tvg-id="" tvg-name="Telehit" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="MÚSICA",Telehit
 http://200.229.147.76:4000/play/a0hz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telehit [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="MÚSICA",Telehit [MPD]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZUJWzFk59tUClptPu8Ryhg","kid":"btNsX30HdeIfB0jdF1ILyQ"}],"type":"temporary"}
-https://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="" tvg-name="Telehit Música" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34394_dark_360w_270h.png" group-title="MÚSICA",Telehit Música
 http://200.229.147.76:4000/play/a0i1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telehit Música [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34394_dark_360w_270h.png" group-title="MÚSICA",Telehit Música [MPD]
-#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o3XQhiQpqNJv/2ZV5IZc1Q","kid":"EQg3dH7ihdTP0RRaEyiNNQ"}],"type":"temporary"}
-https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="MÚSICA",Telehit Música Plus
 http://138.0.90.13:8001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="claromusica.cl" tvg-name="Claro Música Sin Limites" tvg-logo="https://i.imgur.com/BlBgOHU.png" group-title="MÚSICA",Claro Música Sin Limites
@@ -450,11 +422,6 @@ http://45.225.95.170:8000/play/a0ib/index.m3u8
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQrf087rItPCNSBTJd3ZrKkvywXfrUkKjt6eL8BioIcgc/ts
 #EXTINF:-1 tvg-id="" tvg-name="MuchMusic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16262_dark_360w_270h.png" group-title="MÚSICA",MuchMusic
 http://200.229.147.76:4000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MuchMusic [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16262_dark_360w_270h.png" group-title="MÚSICA",MuchMusic [MPD]
-#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Xeknd9DBIh73e4EgFTYEdA","kid":"QotlgOUvERb6OxNXJcDBqQ"}],"type":"temporary"}
-https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="" tvg-name="DShow [MPD]" tvg-logo="" group-title="MÚSICA",DShow [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iLETpA+Zem7nD7Z3ujihOw","kid":"zxaJ1ZefV2WluNyyNuaRNg"}],"type":"temporary"}
@@ -493,6 +460,10 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 https://stirr.ott-channels.stingray.com/102/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="MÚSICA",Stingray Classic Rock
 https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Urban Beats" tvg-logo="" group-title="MÚSICA",Stingray Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Soul Storm" tvg-logo="" group-title="MÚSICA",Stingray Soul Storm
+https://stirr.ott-channels.stingray.com/134/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-logo="" group-title="MÚSICA",Stingray Pop Adult
 https://stirr.ott-channels.stingray.com/104/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-logo="" group-title="MÚSICA",Stingray Hit List
@@ -505,16 +476,24 @@ https://stirr.ott-channels.stingray.com/128/master.m3u8
 https://stirr.ott-channels.stingray.com/155/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Éxitos del Momento" tvg-logo="" group-title="MÚSICA",Stingray Éxitos del Momento
 https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-logo="" group-title="MÚSICA",Stingray Holiday Hits
+https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Biggest Pop" tvg-logo="" group-title="MÚSICA",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="MTV Block Party" tvg-logo="" group-title="MÚSICA",MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 70's" tvg-logo="" group-title="MÚSICA",Vevo 70's
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 80's" tvg-logo="" group-title="MÚSICA",Vevo 80's
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 90's" tvg-logo="" group-title="MÚSICA",Vevo 90's
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1920px-Vevo_2016_Logo.svg.png" group-title="MÚSICA",Vevo Pop
-https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Reggaeton & Trap" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1920px-Vevo_2016_Logo.svg.png"" group-title="MÚSICA",Vevo Reggaeton & Trap
-https://i.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="Vevo Retro Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/1920px-Vevo_2016_Logo.svg.png" group-title="MÚSICA",Vevo Retro Rock
-https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="732dtv.cl" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="CULTURA",Discovery Channel
 http://45.232.210.1:47000/play/a0e1
 #EXTINF:-1 tvg-id="730dtv.cl" tvg-name="National Geographic Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="CULTURA",National Geographic Channel
@@ -533,12 +512,6 @@ http://45.232.210.1:47000/play/a05b
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQrdd2_fTZ6qLp5RQzRz1wWx32eGD9r9UB5A22dveC4gT/ts
 #EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="CULTURA",Discovery Science
 http://45.225.95.170:8000/play/a0gy/index.m3u8
-#EXTINF:-1 tvg-id="discovery-science.cl" tvg-name="Discovery Science HD [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="CULTURA",Discovery Science HD [MPD]
-#EXTHTTP:{"User-Agent":"Chrome/111.0.5563.111","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
-https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="1747dtv.cl" tvg-name="Smithsonian Channel - PlutoTV" tvg-logo="" group-title="CULTURA",Smithsonian Channel - PlutoTV
 http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5fbc4110-d0be-11ed-8a38-055f9c4ae0c5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5c10ef4-15f9-484b-9425-10832b72b017&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="1731dtv.cl" tvg-name="Discovery Theater" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="CULTURA",Discovery Theater
@@ -702,8 +675,6 @@ https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9e4pPL3L-x2Yif0eGeFotvcLrmzA
 http://187.251.240.18:1099/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="azteca13.mx" tvg-name="Azteca Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="MUNDOS",Azteca Uno
 http://187.251.240.18:1099/play/a05j/index.m3u8
-#EXTINF:-1 tvg-id="azteca13.mx" tvg-name="Azteca Uno [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="MUNDOS",Azteca Uno [MPD]
-
 #EXTINF:-1 tvg-id="" tvg-name="AZ Mundo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" group-title="MUNDOS",AZ Mundo
 http://45.189.117.202:48000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-name="La Nación +" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="MUNDOS",La Nación +
@@ -804,6 +775,22 @@ https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7V0MwDFtaZAqK2AS+z9Uww","kid":"YKVYxgmUXJqLidsmtEWgqg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1262/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="" tvg-name="Rai 4K" tvg-logo="" group-title="4K" ,Rai 4K
+http://176.65.146.136:8020/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 4K" tvg-logo="" group-title="4K" ,TRT 4K
+http://195.230.27.108:8003/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TravelXP 4K" tvg-logo="" group-title="4K" ,TravelXP 4K
+http://149.62.177.99:8004/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musseum 4K" tvg-logo="" group-title="4K" ,Musseum 4K
+http://149.62.177.99:8004/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg 4K" tvg-logo="" group-title="4K" ,Bloomberg 4K
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="4K" ,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HotBird 4K" tvg-logo="" group-title="4K" ,HotBird 4K
+http://149.62.177.99:8004/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nasa TV 4K" tvg-logo="" group-title="4K" ,Nasa TV 4K
+http://149.62.177.99:8004/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Playboy TV" tvg-logo="" group-title="ADULTOS" parent-code="1190",Playboy TV
 http://138.0.90.13:8001/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Venus" tvg-logo="" group-title="ADULTOS" parent-code="1190",Venus
@@ -818,6 +805,8 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/9624.ts
 http://45.166.92.22:58001/play/a04s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Passie XXX" tvg-logo="" group-title="ADULTOS" parent-code="1190",Passie XXX
 http://dnsplay.xyz:80/cepwhfgl/md5G7R4pn2/35359
+#EXTINF:-1 tvg-id="" tvg-name="Hustler" tvg-logo="" group-title="ADULTOS" parent-code="1190",Hustler
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9e4pPL3L-x2Yif0eGeFotvcLrmzAJr3JOgoyGr9VrLCY/ts
 #EXTINF:-1 tvg-id="" tvg-name="Xviven" tvg-logo="" group-title="ADULTOS" parent-code="1190",Xviven
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/9632.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bang Bros" tvg-logo="" group-title="ADULTOS" parent-code="1190",Bang Bros
@@ -836,3 +825,9 @@ http://168.228.194.33:48001/play/a0ce/index.m3u8
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7576.ts
 #EXTINF:-1 tvg-id="" tvg-name="Lesbian Movies" tvg-logo="" group-title="ADULTOS" parent-code="1190",Lesbian Movies
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/2058.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="" group-title="TEST" parent-code="1190",TEST
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4jEiCD8jG56rjuMX8vPRHA","kid":"qWIe8D8vWTOiyGDsydFowQ"}],"type":"temporary"}
+https://fox-edge1-mx.tbxdrm.com/mxfoxsportspremium/manifest.mpd
