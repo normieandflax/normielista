@@ -716,7 +716,7 @@ https://audio2.tustreaming.cl/7040/stream
 #EXTINF:-1 tvg-id="" tvg-name="Radio Activa" tvg-logo="" group-title="RADIOS",Radio Activa
 https://24503.live.streamtheworld.com/ACTIVA_SC
 #EXTINF:-1 tvg-id="" tvg-name="Radio Disney Chile" tvg-logo="" group-title="RADIOS",Radio Disney Chile
-https://26563.live.streamtheworld.com/DISNEY_CHI_SA.mp3
+https://24073.live.streamtheworld.com/DISNEY_CHI_SA.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Radio Carolina" tvg-logo="" group-title="RADIOS",Radio Carolina
 https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los 40 Chile" tvg-logo="" group-title="RADIOS",Los 40 Chile
@@ -750,7 +750,7 @@ https://stream10.usastreams.com/9314/stream
 #EXTINF:-1 tvg-id="" tvg-name="El Conquistador FM - Red Norte" tvg-logo="" group-title="RADIOS",El Conquistador FM - Red Norte
 https://stream10.usastreams.com/9324/stream
 #EXTINF:-1 tvg-id="" tvg-name="Duna" tvg-logo="" group-title="RADIOS",Duna
-https://stream.zeno.fm/x8zccwx3xqzuv
+https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13C Radio" tvg-logo="" group-title="RADIOS",13C Radio
 https://mdstrm.com/audio/5c915497c6fd7c085b29169d/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-name="Rock & Pop" tvg-logo="" group-title="RADIOS",Rock & Pop
