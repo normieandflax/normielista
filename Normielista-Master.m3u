@@ -676,7 +676,7 @@ http://179.0.104.255:8000/play/a014
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CzeyY6Csp7CPEgFLK3uSSA","kid":"X3ieu7ZJVXi0Ime2UFdPYg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="784dtv.cl" tvg-name="El Trece Internacional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" group-title="MUNDOS",El Trece Internacional
-http://177.234.230.226:8010/play/a02s/index.m3u8
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IvifWCt5Ef_TKD7fZ8n-pPX/ts
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="MUNDOS",Las Estrellas - México
 http://187.251.240.18:1099/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="azteca13.mx" tvg-name="Azteca Uno" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="MUNDOS",Azteca Uno
