@@ -828,6 +828,6 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/2058.ts
 #EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="" group-title="TEST" parent-code="1190",TEST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4jEiCD8jG56rjuMX8vPRHA","kid":"qWIe8D8vWTOiyGDsydFowQ"}],"type":"temporary"}
-https://fox-edge1-mx.tbxdrm.com/mxfoxsportspremium/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=ZTQxNWM4MmEtNjcwMy0zOGU1LTg2YTEtYTAxYjcxZTgxMmUz
+https://edge1-zapopan.izzigo.tv/live1/out/u/dash/ESPN-PLUS-HD/dash/default.mpd
