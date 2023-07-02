@@ -320,7 +320,7 @@ http://45.232.210.1:47000/play/a0fg
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQsYGdY6hevmocqftsBexv8URdsWRobK_FHHLHSJzEs_V/ts
 #EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="INFANTIL",BabyTV
 http://45.225.95.170:8000/play/a0ix/index.m3u8
-#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="BabyTV HD [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="INFANTIL",BabyTV HD [MPD]
+#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="BabyTV - DirecTV [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="INFANTIL",BabyTV HD [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8JNNLQGjqmYrDEw0VhenWg","kid":"Ej16s3MNU4Svt28xCbg_zQ"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
@@ -663,10 +663,6 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 http://45.225.95.170:8000/play/a0ie/index.m3u8
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-name="América TV - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" group-title="MUNDOS",América TV - Argentina
 http://45.186.252.17:8000/play/a02i
-#EXTINF:-1 tvg-id="120dtv.ar" tvg-name="América TV - Argentina [MPD]" group-title="MUNDOS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png", América TV - Argentina [MPD]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b3ZjSxTiQ_G87hxfzYo5PA","kid":"0U_KVQrbW3W7NPDEKqKB3Q"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-name="El Nueve - Argentina" tvg-logo="https://i.imgur.com/Y8EWvt2.png" group-title="MUNDOS",El Nueve - Argentina
 http://45.186.252.17:8000/play/a04o
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-name="TV Pública - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="MUNDOS",TV Pública - Argentina
