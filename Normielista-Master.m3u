@@ -83,10 +83,6 @@ https://1060-cbc-da-bpk.dtvott.com/dash_live_1060/manifest.mpd|User-Agent="Mozil
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/39.ts
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-name="DSports - Chile" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684894373385" group-title="DEPORTES",DSports - Chile
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/13498.ts
-#EXTINF:-1 tvg-id="610dtv.cl" tvg-name="DSports - Chile [MPD]" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684894373385" group-title="DEPORTES",DSports - Chile [MPD]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B8FzWtrBXeh33z+BtPxHMQ","kid":"6bxqHGTgXDWqcuErFtNSRw"}],"type":"temporary"}
-https://1058-cbc-da-bpk.dtvott.com/dash_live_1058/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="612directv.cl" tvg-name="DSports 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684894373383" group-title="DEPORTES",DSports 2
 http://168.228.194.33:48001/play/a0bb/index.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-name="DSports +" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684891675234" group-title="DEPORTES",DSports +
@@ -167,6 +163,11 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 http://190.149.66.90:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="637dtv.cl" tvg-name="CDO Premium" tvg-logo="" group-title="DEPORTES",CDO Premium
 http://45.225.95.170:8000/play/a0fl/index.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-id="637dtv.cl" tvg-name="CDO Premium [MPD]" tvg-logo="" group-title="DEPORTES",CDO Premium [MPD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cdo.json
+https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1039
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",Discovery Turbo
 http://45.225.95.170:8000/play/a0io/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo HD [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",Discovery Turbo HD [MPD]
