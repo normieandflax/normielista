@@ -101,7 +101,7 @@ http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQnV4m6cX7R0H2S5juDYY3es
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gG8YHFRdzJsugpWGbX_LWA","kid":"7t4TEF53XPGOetIFeKtwHA"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-name="Fox Sports 2 - México" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México
-http://dnsplay.xyz:80/cepwhfgl/md5G7R4pn2/302653
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQnJEt-v-oKUsLDqdDg9_LEo/ts
 #EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-name="Fox Sports 2 - México [MPD]" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xo1p7aggA9CV1GaiSSt9Dg","kid":"S1aen4JmVC+j9ALDBXy5jA"}],"type":"temporary"}
