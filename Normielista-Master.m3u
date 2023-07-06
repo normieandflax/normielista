@@ -383,7 +383,9 @@ https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MÚSICA",MTV Sur
 http://45.232.210.1:47000/play/mtvhd
 #EXTINF:-1 tvg-id="261dtv.cl" tvg-name="MTV Hits" tvg-logo="" group-title="MÚSICA",MTV Hits
-http://45.5.117.172:8000/play/a0gd/index.m3u8
+http://obsfullhd.tv:25461/@Mnetadmin/pNMkGMS5AK/2939
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits - Francia" tvg-logo="" group-title="MÚSICA",MTV Hits - Francia
+http://obsfullhd.tv:25461/@Mnetadmin/pNMkGMS5AK/1703
 #EXTINF:-1 tvg-id="263dtv.cl" tvg-name="MTV Live - Europa" tvg-logo="" group-title="MÚSICA",MTV Live - Europa
 http://45.5.117.172:8000/play/a0hz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's
@@ -397,7 +399,7 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7305.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live - Estados Unidos" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png" group-title="MÚSICA",MTV Live - Estados Unidos
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7306.ts
 #EXTINF:-1 tvg-id="" tvg-name="Club MTV" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/558/index.m3u8
+http://obsfullhd.tv:25461/@Mnetadmin/pNMkGMS5AK/2946
 #EXTINF:-1 tvg-id="" tvg-name="MTV Music" tvg-logo="" group-title="MÚSICA",MTV Music
 http://obsfullhd.tv:25461/@Mnetadmin/pNMkGMS5AK/1702
 #EXTINF:-1 tvg-id="268dtv.cl" tvg-name="NickMusic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic
@@ -532,10 +534,6 @@ http://45.232.210.1:47000/play/a0al
 http://45.5.117.172:8000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TNT Novelas" tvg-logo="https://i.imgur.com/TGew5fX.png" group-title="VARIEDADES",TNT Novelas
 http://138.0.90.13:8001/play/a061/index.m3u8
-#EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TNT Novelas [MPD]" tvg-logo="https://i.imgur.com/TGew5fX.png" group-title="VARIEDADES",TNT Novelas HD [MPD]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBgg0mY7qybgGkvcv3HkQw","kid":"SessGL7WUsyTyHXOu5r0Dg"}],"type":"temporary"}
-https://dtvott-cbc.akamaized.net/dash_live_1212/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="VARIEDADES",E!
 http://45.232.210.1:47000/play/a0ff
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png" group-title="VARIEDADES",Investigation Discovery
@@ -575,7 +573,7 @@ http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQu4GCunM5E6dIzprQxJ5D5N
 #EXTINF:-1 tvg-id="" tvg-name="Mega Plus" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_megaplus.png" group-title="VARIEDADES",Mega Plus
 https://marine2.miplay.cl/megaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-name="Vía X" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_viax.png" group-title="VARIEDADES",Vía X
-http://45.232.210.1:8062/play/a07k/index.m3u8
+http://45.232.210.1:8062/play/a092/index.m3u8
 #EXTINF:-1 tvg-id="801mvstr.cl" tvg-name="Zona Latina" tvg-logo="https://i.imgur.com/eFaOYK7.png" group-title="VARIEDADES",Zona Latina
 http://45.232.210.1:8062/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AZ Clic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92197_dark_360w_270h.png" group-title="VARIEDADES",AZ Clic
@@ -612,10 +610,6 @@ https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd|User-Agent="Mozilla
 https://dtvott-abc.akamaized.net/dash_live_1177/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="canalclaro.cl" tvg-name="Canal Claro" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79664_dark_360w_270h.png" group-title="VARIEDADES",Canal Claro
 http://190.6.203.198:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="canalclaro.cl" tvg-name="Canal Claro [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79664_dark_360w_270h.png" group-title="VARIEDADES",Canal Claro [MPD]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae5d967526f90c80102fab021e3dd282:226f3cfc4f00e03dbe39e2a88760293f
-https://edzetacl.cloud/clear/?id=CCLARO
 #EXTINF:-1 tvg-id="704dtv.cl" tvg-name="CNN en Español" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="MUNDOS",CNN en Español
 http://45.232.210.1:8062/play/a0bh/index.m3u8
 #EXTINF:-1 tvg-id="706dtv.cl" tvg-name="CNN International" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15192_dark_360w_270h.png" group-title="MUNDOS",CNN International
