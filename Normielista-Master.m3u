@@ -817,6 +817,5 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7576.ts
 #EXTINF:-1 tvg-id="" tvg-name="Lesbian Movies" tvg-logo="" group-title="ADULTOS" parent-code="1190",Lesbian Movies
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/2058.ts
 #EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="" group-title="TEST",TEST
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"R+WeDMsosP+nzoMP0lGVOQ","kid":"LYRvE8W9Q/OkVtnpWER/Fw"}],"type":"temporary"}
-https://edzetacl.cloud/clear/?id=ESPNDEP
+#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
+http://23.237.108.226/hls/MTVLIVE.m3u8
