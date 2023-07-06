@@ -380,7 +380,7 @@ https://pantera1-100gb-cl-movistar.dps.live/uatv/uatv.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ITV Patagonia" tvg-logo="" group-title="REGIONALES",ITV Patagonia
 https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV Sur" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MÚSICA",MTV Sur
+#EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV Latinoamérica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MÚSICA",MTV Latinoamérica
 http://45.232.210.1:47000/play/mtvhd
 #EXTINF:-1 tvg-id="261dtv.cl" tvg-name="MTV Hits" tvg-logo="" group-title="MÚSICA",MTV Hits
 http://obsfullhd.tv:25461/@Mnetadmin/pNMkGMS5AK/2939
@@ -816,3 +816,7 @@ http://168.228.194.33:48001/play/a0ce/index.m3u8
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7576.ts
 #EXTINF:-1 tvg-id="" tvg-name="Lesbian Movies" tvg-logo="" group-title="ADULTOS" parent-code="1190",Lesbian Movies
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/2058.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="" group-title="TEST",TEST
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"R+WeDMsosP+nzoMP0lGVOQ","kid":"LYRvE8W9Q/OkVtnpWER/Fw"}],"type":"temporary"}
+https://edzetacl.cloud/clear/?id=ESPNDEP
